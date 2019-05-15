@@ -1,0 +1,14 @@
+{
+  "name": "own-realization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DenRostokin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
