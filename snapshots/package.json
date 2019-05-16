@@ -1,0 +1,14 @@
+{
+  "name": "spapshots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "super-heros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DenRostokin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monkey-patching.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DenRostokin",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "jest": "^24.8.0"
+  }
+}
